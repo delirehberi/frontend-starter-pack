@@ -1,0 +1,3 @@
+var Layout=React.createClass({
+
+})

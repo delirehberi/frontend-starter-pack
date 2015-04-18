@@ -1,0 +1,27 @@
+{
+  "name": "Hedef.im",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aybarscengaver/hedef.im",
+  "authors": [
+    "aybarscengaver <aybarscengaver@gmail.com>"
+  ],
+  "description": "Todo App",
+  "main": "build/app.js",
+  "keywords": [
+    "todo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "packages",
+    "web/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.1",
+    "sizzle": "~2.2.0",
+    "bootstrap": "3.*"
+  }
+}
